@@ -3,6 +3,7 @@ Version: 1.0.18
 Date: 
   Changes:
     - Removed SE Space Attribute from Cursix Beacon as it didn't work
+    - Updated Description for Poison Mushroom
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.17
 Date: 02. 01. 2023
